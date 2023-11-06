@@ -13,6 +13,4 @@ Covira is a web-based information system created using vue js, with direct data 
 
 if you want to make Website too , you can contact me at 
 
-Facebook : [https://www.facebook.com/yudas1337](https://www.facebook.com/yudas1337)
-
-Gmail    : [yudasmalabi@gmail.com](yudasmalabi@gmail.com)
+Gmail    : [awendyrobin406@gmail.com](awendyrobin406@gmail.com)
